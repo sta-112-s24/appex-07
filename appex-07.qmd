@@ -1,0 +1,17 @@
+---
+title: "Appex 07"
+author: "Put your name here!"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: setup
+#| message: false
+#| warning: false
+library(tidyverse)
+library(Stat2Data)
+data(PorschePrice)
+```
+
+To begin, take a look at the `PorschePrice` dataset in the Console.
