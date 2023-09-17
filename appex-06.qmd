@@ -1,7 +1,9 @@
 ---
-title: "Appex 07"
+title: "Appex 06"
 author: "Put your name here!"
-format: html
+format: 
+  html:
+    self-contained: true
 editor: visual
 ---
 
